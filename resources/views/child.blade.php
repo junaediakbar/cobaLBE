@@ -7,7 +7,7 @@
 @section('sidebar')
     @parent
 
-    <p>This is appended to the master sidebar.</p>
+    <p>This a appended to the master sidebar.</p>
 @endsection
 
 @section('content')
